@@ -1,6 +1,7 @@
 ============
 Installation
 ============
+cx,cx,nx,mncxv
 
 Install the package with pip::
 
